@@ -1,103 +1,104 @@
-### উৎপাদনের তত্ত্ব (Theory of Production)
+### Theory of Production
 
-হ্যালো! আপনি চান এই বিষয়টি সহজ বাংলায় বিস্তারিতভাবে ব্যাখ্যা করি, যাতে আপনি এটাকে নোট হিসেবে সেভ করে রাখতে পারেন। আমি ইংরেজি কনটেন্টটাকে সহজ, সাধারণ ভাষায় বাংলায় অনুবাদ করে ব্যাখ্যা করব। সবকিছু ধাপে ধাপে লিখব, হেডিং দিয়ে, যাতে পড়তে সুবিধা হয়। এটা অর্থনীতির একটা গুরুত্বপূর্ণ অংশ, যেখানে আমরা বুঝব কীভাবে পণ্য বা সেবা তৈরি হয়, কী কী উপাদান লাগে, এবং কীভাবে উৎপাদন বাড়ানো যায়। চলুন শুরু করি!
+Factors of Production: There are mainly four factors of production. These are—
 
-#### উৎপাদনের উপাদানসমূহ (Factors of Production)
-উৎপাদন মানে হলো কোনো কিছু তৈরি করা, যেমন পণ্য (জিনিসপত্র) বা সেবা। এর জন্য মূলত চারটা উপাদান লাগে। এগুলোকে "উৎপাদনের উপাদান" বলে। এগুলো হলো:
+1. Land/Natural Resources: Land refers to all natural resources. These resources are gifts that are given by nature. Some typical examples of natural resources are water, oil, copper, natural gas, coal, and forests. These resources can be renewable, such as forests, or nonrenewable such as oil or natural gas. The income earned from land or other such natural resources is called rent.
 
-1. **ভূমি বা প্রাকৃতিক সম্পদ (Land/Natural Resources)**: ভূমি বলতে সব প্রাকৃতিক জিনিস বোঝায়, যা প্রকৃতি আমাদের দিয়েছে। উদাহরণ: পানি, তেল, তামা, প্রাকৃতিক গ্যাস, কয়লা, জঙ্গল। এগুলো কিছু পুনর্নবীকরণযোগ্য (renewable), যেমন জঙ্গল (নতুন করে গাছ লাগানো যায়), আর কিছু অপুনর্নবীকরণযোগ্য (nonrenewable), যেমন তেল বা গ্যাস (একবার শেষ হলে শেষ)। এই উপাদান থেকে যে আয় হয়, তাকে বলে ভাড়া বা রেন্ট (rent)।
+2. Labor: Labor, as a factor of production, involves any human input. The quality of labor depends on the workforce's skills, education, and motivation. Generally speaking, the higher the quality of labor, the more productive is the workforce. If someone has ever paid you for a job, you have contributed labor resources to the production of goods or services. Labor can be physical or mental. The income earned by labor resources is called wages. It is the largest source of income for most people.
 
-2. **শ্রম (Labor)**: এটা মানুষের কাজ বা ইনপুট। শ্রমের গুণগত মান নির্ভর করে কর্মীদের দক্ষতা, শিক্ষা এবং অনুপ্রেরণার ওপর। যত ভালো শ্রম, তত বেশি উৎপাদনশীলতা। উদাহরণ: যদি কেউ তোমাকে কোনো কাজের জন্য টাকা দেয়, তাহলে তুমি শ্রম দিয়েছ। শ্রম শারীরিক (হাতের কাজ) বা মানসিক (মাথার কাজ) হতে পারে। এর থেকে আয়কে বলে মজুরি বা ওয়েজ (wages)। বেশিরভাগ মানুষের জন্য এটাই সবচেয়ে বড় আয়ের উৎস।
+3. Capital: Here capital refers to manufactured resources such as factories and machines. These are man-made goods used in the production of other goods. Their use in commercial production is what separates them from consumer goods.
 
-3. **পুঁজি (Capital)**: এখানে পুঁজি বলতে কারখানা, মেশিনের মতো মানুষের তৈরি জিনিস বোঝায়। এগুলো অন্য জিনিস তৈরি করতে ব্যবহার হয়। এগুলোকে ভোক্তা পণ্য (consumer goods) থেকে আলাদা করে কারণ এগুলো ব্যবসায়িক উৎপাদনে ব্যবহার হয়। উদাহরণ: হাতুড়ি, ফর্কলিফট, কনভেয়র বেল্ট, কম্পিউটার, ডেলিভারি ভ্যান। পুঁজি বাড়লে অর্থনীতির উৎপাদন ক্ষমতা বাড়ে। এর মালিকের আয়কে বলে সুদ (interest)।
+Some other examples of capital include hammers, forklifts, conveyor belts, computers, and delivery vans. An increase in capital goods means an increase in the productive capacity of the economy. The income earned by owners of capital resources is interest.
 
-4. **উদ্যোগ (Entrepreneurship)**: উদ্যোক্তা হলো সেই ব্যক্তি যে ঝুঁকি নেয় এবং অন্য তিনটা উপাদানকে একসাথে করে। উদ্যোক্তারা অর্থনৈতিক বৃদ্ধির মূল চালিকাশক্তি। তারা বড় কোম্পানি বা ছোট দোকান সব তৈরি করে। ঝুঁকির বদলে তারা যা পায়, তাকে বলে লাভ (profit)।
+4. Entrepreneurship: An entrepreneur is someone who takes on the risk and brings the other three factors of production together. Entrepreneurs are a vital engine of economic growth, helping to build some of the largest firms in the world as well as some of the small businesses in your neighborhood. The payment an entrepreneur receives is called profit as a reward for the risk they take.
 
-#### একটা ফার্মের লক্ষ্য (A Firm's Objective)
-একটা কোম্পানি বা ফার্মের মূল লক্ষ্য হলো লাভ সর্বোচ্চ করা (profit maximization)। স্বল্পকালীন সময়ে (short run) যদি উৎপাদন স্থির থাকে (ক্যাপাসিটির সীমা থাকার জন্য) এবং যদি ফার্ম দাম নির্ধারণ করতে না পারে (price-taker, যেমন পুরোপুরি প্রতিযোগিতামূলক বাজারে), তাহলে আয়ও স্থির থাকবে। তাই লাভ বাড়াতে হলে খরচ কমাতে হবে (cost minimization)। লাভ সর্বোচ্চ করা আর খরচ সর্বনিম্ন করা একই মুদ্রার দুই পিঠ। সাপ্লাই (supply) নির্ভর করে উৎপাদন খরচের ওপর। অতিরিক্ত একটা ইউনিট সাপ্লাই করার সিদ্ধান্ত নির্ভর করে সেই ইউনিটের মার্জিনাল খরচের (marginal cost) ওপর। ফার্মের দাম-উৎপাদন সিদ্ধান্তের সবচেয়ে গুরুত্বপূর্ণ নির্ধারক হলো উৎপাদন খরচ।
+A firm's objective is profit maximization. If, in the short run, its total output remains fixed (due to capacity constraints) and if it is a price-taker (i.e., cannot fix the price or change price on its own as in a purely competitive market) its total revenue will also remain fixed. Therefore, the only way to maximize profit is to minimize cost. Thus profit maximization and cost minimization are the two sides of the same coin. Moreover, supply depends on cost of production. The decision to supply an extra unit depends on the marginal cost of producing that unit. Perhaps the most important determinant of the firm's price-output decision in any market is its cost of production.
 
-ফার্মের খরচ দুটো মূল জিনিসের ওপর নির্ভর করে:
-(1) ইনপুট এবং আউটপুটের মধ্যে প্রযুক্তিগত সম্পর্ক (কীভাবে ইনপুট বাড়লে আউটপুট বাড়ে)।
-(2) উপাদানের দাম (যেমন শ্রমের মজুরি, পুঁজির সুদ)।
+The firm's cost, in its turn, depends on two main factors:
+(1) The technical relation between inputs and output (i.e., how outputs vary as inputs vary), and
+(2) Factors price's (i.e., the price of labor or the wage, the price of capital or the interest rate, etc.). In this article we will discuss a new concept, called production function. In this context we will clear a distinction between the short-run and the long-run as also between the return to a factor and the return to scale.
 
-#### উৎপাদন ফাংশন (The Production Function)
-একটা ব্যবসা ফার্ম হলো একটা প্রযুক্তিগত ইউনিট, যেখানে ইনপুট (উপাদান) থেকে আউটপুট (পণ্য) তৈরি হয় এবং বিক্রি হয় ক্রেতা, অন্য ফার্ম বা সরকারের কাছে। উৎপাদন তত্ত্বে আমরা দেখি কীভাবে ইনপুট থেকে আউটপুট হয়। মূল ধারণা হলো উৎপাদন ফাংশন।
+The business firm is a technical unit in which inputs are converted into output for sale to consumers, other business firms and various government departments. In the theory of production we are concerned with the nature of the conversion process, i.e., how inputs are converted into output. The key concept in the theory of production is the production function.
 
-উৎপাদন ফাংশন দেখায় ইনপুটের পরিবর্তনের সাথে আউটপুটের পরিবর্তনের সম্পর্ক। এটা দেখায় স্থির সম্পদ থেকে সর্বোচ্চ কত আউটপুট পাওয়া যায়। এটাকে লেখা হয়:
-**Q = f(K, L, ইত্যাদি)**  
-যেখানে Q হলো আউটপুট (ডিপেন্ডেন্ট ভ্যারিয়েবল), K হলো পুঁজি, L হলো শ্রম। অন্য ইনপুট যেমন ভূমি থাকতে পারে। সুবিধার জন্য আমরা ধরি ফার্ম শুধু দুটো উপাদান ব্যবহার করে: শ্রম আর পুঁজি। আউটপুটকে ফ্লো (flow) বলে, অর্থাৎ সময়ের সাথে কত ইউনিট। আউটপুটের পরিমাণ নির্ভর করে উপাদানের পরিমাণের ওপর।
+The Production Function:
+The production function shows the relation between input changes and output changes. It also shows the maximum amount of output that can be obtained by the firm from a fixed quantity of resources. The production function is expressed as:
 
-যদি ফার্ম আউটপুট বাড়াতে চায়, তাহলে একটা বা দুটো উপাদান বাড়াতে হবে। শ্রম বাড়ানো সহজ (এক সপ্তাহ বা মাসে)। কিন্তু পুঁজি বাড়ানো (যেমন নতুন মেশিন লাগানো) লম্বা সময় লাগে। উপাদান পরিবর্তনের গতি নির্ভর করে সময়কালের ওপর। আমরা দুটো সময়কাল ধরি: স্বল্পকাল (short-run) এবং দীর্ঘকাল (long-run)।
+Q = f(K, L, etc.)
 
-#### স্বল্পকাল এবং দীর্ঘকাল (The Short-Run and the Long-Run)
-দুটোর মধ্যে পার্থক্য হলো স্থির (fixed) এবং পরিবর্তনশীল (variable) উপাদানের। স্থির উপাদান যেটা সহজে পরিবর্তন করা যায় না, আর পরিবর্তনশীল যেটা করা যায়।
+Where Q is output (which is the dependent variable) and K and L are capital and labour inputs, respectively. We can think of other inputs as well, such as land. For the sake of convenience we assume here that the firm employs only two factors of production—labour and capital. The firm's output is treated as a flow, i.e., so many units per period of time. The volume of output of the firm's product, per period of time, depends on the quantities of these factors that are used by the firm.
 
-**স্বল্পকাল (Short-Run)**: এটা সেই সময় যেখানে এক বা একাধিক উপাদান স্থির। বাস্তবে ভূমি এবং পুঁজি (যেমন কারখানা, যন্ত্রপাতি) স্থির। আমরা সহজ করে ধরি: পুঁজি স্থির, শ্রম পরিবর্তনশীল। তাই আউটপুট নির্ভর করে শ্রমের ওপর, স্থির পুঁজির সাথে। স্বল্পকালে উৎপাদন পরিবর্তন করতে হলে শুধু শ্রম বাড়াতে হবে, যা শ্রম-পুঁজির অনুপাত পরিবর্তন করে।
+Let us now suppose that the firm wishes to increase its volume (rate) of output. This can be achieved by increasing the inputs of one or both factors of production. However, it is very easy to vary the quantity of labour in the production process. It can be done very quickly (in a week or a month). On the other hand, a fairly long period of time is required to vary the quantity of other factors, for example, change the quantity (or usage) of capital, e.g. to install a new machine. The speed with which different kinds of factors can be varied largely depends on the time period under consideration. Here we assume that the firm is making decisions within two time periods —the short-run and the long-run.
 
-**দীর্ঘকাল (Long-Run)**: এটা সেই সময় যেখানে সব উপাদান পরিবর্তন করা যায়, বিদ্যমান প্রযুক্তির মধ্যে। সবকিছু পরিবর্তনশীল। এখানে উপাদান প্রতিস্থাপন (substitution) সম্ভব: বেশি পুঁজি কম শ্রম, বা উল্টো, একই আউটপুটের জন্য।
+The Short-Run and the Long-Run:
+The distinction between the short-run and the long-run is based on the difference between fixed and variable factors. A factor of production is treated as a fixed factor if it cannot easily be varied over the time period under consideration. On the other hand, a variable factor is one which can be varied over the time period under consideration.
 
-#### স্বল্পকালে ইনপুট-আউটপুটের সম্পর্ক (Table 6.1)
-টেবিল 6.1 দেখায় স্বল্পকালে শ্রম (পরিবর্তনশীল) এবং পুঁজি (স্থির, 10 ইউনিট) এর সম্পর্ক। তিনটা ধারণা: মোট উৎপাদন (Total Product - TP), গড় উৎপাদন (Average Product - AP), মার্জিনাল উৎপাদন (Marginal Product - MP)।
+The Short-Run:
+The short-run refers to the period of time over which one (or more) factor(s) of production is (are) fixed. In the real world, land and capital (such as plant and equipment) are usually treated as fixed factors. Here we are considering a simple production process with only two factors. We treat capital as the fixed factor and labour as the variable factor. Thus, output becomes a function of (i.e., output depends on the usage of) the variable factor labour working on a fixed quantity of capital. In other words, if the firm wishes to vary its production in the short-run, it can do so only by changing the quantity of labour. With a fixed quantity of capital, this necessitates changing the proportions in which labour and capital are combined in the production process.
 
-- **TP (Q)**: স্থির সময়ে সব উপাদান থেকে মোট উৎপাদন।
-- **AP**: প্রতি ইউনিট ইনপুটের আউটপুট। AP = TP / L (শ্রমের সংখ্যা)। প্রতি কর্মীর আউটপুট।
-- **MP**: ইনপুটের ছোট পরিবর্তনে TP-এর পরিবর্তন। MP = ΔQ / ΔL।
+The Long-Run:
+On the other hand the long-run is defined as the period over which all factors of production can be varied, within the confines of existing technology. In the long-run all factors are variable. Moreover the long-run also permits factor substitution. More capital and less labour or more labour and less capital can be used to produce a fixed amount of output. Table 6.1 illustrates the relationship between input changes and output changes in the short run. Three concepts bear relevance in this context, viz., total product (TP), average product (AP) and marginal product (MP). Here Q is total product. It refers to the total amount produced by all the factors employed in a fixed time period. AP is output per unit of input. It is calculated by dividing TP by the amount of the variable factor, e.g., labour (L).
 
-টেবিল:
+So, AP = TP/L = Q/L is output per unit of labour or per worker. The marginal product is defined as the change in total product associated with a small change in the usage of the variable factor. It may be expressed as, MP = ΔQ/ΔL where 'Δ' denotes any change. Thus, MP is the ratio of the change in Q and change in L.
 
-| শ্রমের সংখ্যা (L) | TP | MP | AP | উৎপাদনের পর্যায় |
-|-------------------|----|----|----|------------------|
-| 0                 | 0  |    |    | পরিবর্তনশীল উপাদানের বৃদ্ধিশীল রিটার্ন (Increasing return) |
-| 1                 | 4  | 4  | 4  |                  |
-| 2                 | 10 | 6  | 5  |                  |
-| 3                 | 21 | 11 | 7  |                  |
-| 4                 | 40 | 19 | 10 |                  |
-| 5                 | 55 | 15 | 11 | হ্রাসমান রিটার্ন (Diminishing return) |
-| 6                 | 60 | 5  | 10 |                  |
-| 7                 | 63 | 3  | 9  |                  |
-| 8                 | 64 | 1  | 8  |                  |
-| 9                 | 63 | -1 | 7  | নেগেটিভ রিটার্ন (Negative return) |
+Table 6.1 : The relation among output and the quantity of a variable factor (labour) used in combination with a fixed factor (capital)
 
-(গ্রাফ বর্ণনা: (i) TP কার্ভ প্রথমে বাড়ে, তারপর হ্রাস পায়, শেষে নেগেটিভ। (ii) MP এবং AP কার্ভ: MP AP-কে ছেদ করে AP-এর সর্বোচ্চ পয়েন্টে।)
+| Quantities of labour (I) | TP (II) | Output (III) | AP MP (iv) (v) | Stages of Production (vi) |
+|---------------------------|---------|--------------|----------------|---------------------------|
+| 0                        | 0      |              |                | Increasing return to the variable factor (labour) |
+| 1                        | 4      | 4            | 4 4            |                           |
+| 2                        | 10     | 6            | 5 7            |                           |
+| 3                        | 21     | 11           | 7 11           |                           |
+| 4                        | 40     | 19           | 10 19          |                           |
+| 5                        | 55     | 15           | 11 15          | Diminishing return to the variable factor         |
+| 6                        | 60     | 5            | 10 5           |                           |
+| 7                        | 63     | 3            | 9 3            |                           |
+| 8                        | 64     | 1            | 8 1            |                           |
+| 9                        | 63     | -1           | 7 -1           | Negative return to the variable factor            |
 
-টেবিলের ডেটা হাইপোথেটিকাল, কিন্তু সম্পর্ক সর্বজনীন। উদাহরণ: 1 শ্রমিকে TP=4, 2 শ্রমিকে TP=10, তাই MP=6 (10-4)।
+(i) Total product Quantity of labour :
 
-#### উৎপাদন প্রক্রিয়ার তিনটা পর্যায় (Three Stages of Production Process)
-টেবিল থেকে স্বল্পকালে তিনটা পর্যায়:
+[Graph showing TP increasing, then diminishing, then negative]
 
-1. **প্রথম পর্যায় (Increasing Return)**: অতিরিক্ত শ্রম যোগ করলে TP অনুপাতের চেয়ে বেশি বাড়ে, MPও বাড়ে।
+(ii) Marginal and average product
 
-2. **দ্বিতীয় পর্যায় (Diminishing Return)**: TP বাড়ে কিন্তু অনুপাতহীনভাবে, MP কমে। এটা সবচেয়ে গুরুত্বপূর্ণ, বাস্তবিক।
+[Graph showing MP and AP curves, MP intersecting AP at maximum]
 
-3. **তৃতীয় পর্যায় (Negative Return)**: TP নিজেই কমে, MP নেগেটিভ।
+Fig. 6.1. Total product, marginal product and average product and average product of a variable factor, used with a fixed factor in the short run
 
-এই তিনটা মিলে "পরিবর্তনশীল অনুপাতের নিয়ম" (Law of Variable Proportions)। দ্বিতীয় পর্যায় সবচেয়ে গুরুত্বপূর্ণ বলে এটাকে "হ্রাসমান রিটার্নের নিয়ম" (Law of Diminishing Returns) বলে। নিয়ম: স্থির উপাদানের সাথে পরিবর্তনশীল উপাদান বাড়ালে MP এবং AP শেষে কমবে। উদাহরণ: AP 5 শ্রমিক পর্যন্ত বাড়ে, তারপর কমে। MP 4 শ্রমিক পর্যন্ত বাড়ে, 5 থেকে কমে।
+The data presented in Table 6.1 are shown graphically in Fig. 6.1. In Table 6.1 we show the total product that results from employing 1 to 9 units of labour [Column (i)] in combination with a fixed quantity (10 units), of capital, [column (ii)]. Column (iv) shows the corresponding AP figures. Each figure of column (iv) is arrived at by dividing each element of Column (iii) by the corresponding element of Column (i). Column (v) gives the MP figures.
 
-#### MP এবং AP-এর সম্পর্ক (Relationship between MP and AP)
-তিনটা পয়েন্ট:
-1. MP > AP হলে AP বাড়ে।
-2. MP < AP হলে AP কমে।
-3. AP সর্বোচ্চ হলে MP = AP (MP কার্ভ AP-কে ছেদ করে)। এটা গণিতসম্মত।
+Each element in this column shows the contribution (addition) made to the total product (TP) by the one additional unit of labour. In other words, MP is the change in total product which results from a change in the usage of the variable factor (i.e., labour) by one unit. For example, when one unit of labour is employed, TP is 4. When two units are employed, TP is 10. Therefore, the anticipation of the said unit of labour is 10 - 4 = 6 units. This is the MP of labour.
 
-MP শূন্য বা নেগেটিভ হতে পারে, কিন্তু AP সবসময় পজিটিভ (যতক্ষণ TP পজিটিভ)। কিন্তু নেগেটিভ MP-এ লাভমাক্সিমাইজিং ফার্ম এত শ্রমিক নেবে না (যেমন 9 শ্রমিকে TP কমে)।
+Three Stages of Production Process:
+If we look at Table 6.1 carefully we can identify three stages of the production process in the short-run:
 
-#### উৎপাদনশীলতার প্রকারভেদ (Types of Productivity)
-উৎপাদনশীলতা হলো ইনপুট প্রতি আউটপুটের অনুপাত। এটা দেখায় কতটা দক্ষতায় কাজ হয়। চারটা প্রকার:
+(1) In the first stage, when additional units of labour are employed, TP increases more than proportionately and MP also increases. This is the stage of increasing return to the variable factor (labour).
 
-- **শ্রম উৎপাদনশীলতা (Labor Productivity)**: প্রতি ব্যক্তির আউটপুট। এটা শ্রমের দক্ষতা মাপে। সফটওয়্যারে: কোড লেখা এবং ইমপ্লিমেন্ট করার প্রচেষ্টার দক্ষ ব্যবহার।
+(2) In the second stage TP increases no doubt, but not proportionately. In other words, the rate of increase of TP falls. This means that MP diminishes. This is the stage of diminishing return to the variable factor (labour). This is perhaps the most important stage of the production process in the short run.
 
-- **পুঁজি উৎপাদনশীলতা (Capital Productivity)**: পুঁজি ইনপুট প্রতি আউটপুট। পুঁজি উন্নত করলে (capital deepening) আউটপুট বাড়ে। সফটওয়্যারে: কম্পিউটার, ভবন ইত্যাদি।
+(3) In the third stage, TP itself diminishes and the MP is negative. This is the stage of negative return to the variable factor (labour).
 
-- **সামগ্রী উৎপাদনশীলতা (Material Productivity)**: সামগ্রী (প্রাকৃতিক সম্পদ) প্রতি আউটপুট। সফটওয়্যারে কম লাগে, কিন্তু হার্ডওয়্যারে (যেমন ATM) বেশি ভূমিকা।
+The three stages together constitute the Law of Variable Proportions. Since the second stage is most important from the practical point of view, we often ignore the other two stages in most discussions. This is why the Law of Variable Proportions is also known as the Law of Diminishing Returns, which is universally applicable. The Law states that "when increasing quantities of a variable factor are used in combination with a fixed factor, the marginal and average product of the variable factor will eventually decrease." In our example AP increases until 5 men are employed. It declines thereafter. MP declines earlier. It rises until 4 men are employed and declines when 5 and more men are employed.
 
-- **মোট উপাদান উৎপাদনশীলতা (Total Factor Productivity - TFP)**: এটা অন্য তিনটার বাইরে সবকিছু মাপে, যেমন জ্ঞানের পরিবর্তন, সংগঠনের কাঠামো, ম্যানেজমেন্ট, স্কেলের রিটার্ন। সফটওয়্যারে প্রায়ই TFP-এর উপাদানগুলো পরিবর্তন করে উৎপাদনশীলতা বাড়ে।
+No doubt, the data presented in Table 6.1 are hypothetical. But the relationship shown among TP, MP and AP is widely applicable. From Table 6.1 we may also discover the relationship between MP and AP.
 
-উৎপাদনশীলতা গুরুত্বপূর্ণ কারণ এটা দেখায় ইনপুট থেকে আউটপুটে কতটা দক্ষতা। ২০শ শতাব্দীতে এটা সহজ ছিল, যেমন ইস্পাত তৈরিতে: কাঁচামাল, মানুষ, মেশিন থেকে ইস্পাত, তারপর অনুপাত হিসাব। সফটওয়্যারেও একই, কিন্তু খুব আলাদা নয়।
+Three points may be noted in this context:
+1. So long as MP exceeds AP, the AP must be rising.
+2. Thus, it follows as a corollary of this that only when MP falls below the level of AP, does AP fall.
+3. Since MP rises when MP is exceeding AP, while AP falls where MP is less than AP, it follows that where AP is at a maximum, it is equal to MP. This is why; the MP curve intersects the AP curve at the latter's maximum point. (The relation between the margin and the average is mathematical.)
 
-এই নোটটা সেভ করে রাখুন। যদি কোনো অংশ বুঝতে অসুবিধা হয় বা আরও বিস্তার চান, জিজ্ঞাসা করুন!
+In this context we may note that MP can be zero or negative, but AP can never be so. AP may be very small but is always positive as long as TP is positive. However, such a situation does not carry any significance. In an example where 9 men are employed, TP falls. So no profit-maximizing producer would consider employing so many workers.
 
+### Types of Productivity
 
----
+Productivity is the ratio of the amount of output from a team or organization per unit of input. Conceptually productivity is a simple metric. The metric is a sign of how efficiently a team or organization has organized and managed the piece of work being measured. There are four types of productivity. Each type of productivity focuses on a different part of the supply chain needed to deliver a product or a service. The four types are:
 
+- Labor productivity is the ratio output per person. Labor productivity measures the efficiency of the labor in the transformation of something into a product of higher value. In software development terms, labor productivity is a measure of the efficient use of the effort needed to write and implement the code.
 
-https://grok.com/share/c2hhcmQtMi1jb3B5_2b0501e3-0998-491d-90d7-5df69e7d0ab7
+- Capital productivity is the ratio of output (goods or services) to the input of physical capital. Improving physical capital (known as capital deepening) typically yields an increase in output. In software development, physical capital includes the equipment, buildings or other items like computers needed to develop and implement the code.
+
+- Material productivity is the ratio of output to the input of materials (also known as natural resources). In software development, there are very little material or natural resources that are used. Material productivity plays a larger role when considering the manufacture of hardware/software packages, such as an ATM.
+
+- Total Factor productivity (TFP) is not a simple ratio of output to input, but rather it is a measure that captures everything that is not captured as labor, capital or material productivity. Factors included in total factor productivity include attributes like changes in general knowledge, the use of particular organizational structures, management techniques, or returns on the scale. The components in TFP are often the sources of productivity changes in software development.
+
+Productivity is important because it defines the efficiency of an organization in converting inputs into output. In the 20th century, we got used to productivity being a relatively simple concept. Steel makers take raw materials, people, and machines and create steel. If we calculating the productivity of a steel maker, we would measure the amount of steel created and then divide it by the amount of raw material, cost of machines or the amount of effort needed. Calculating software productivity is not substantially different.
